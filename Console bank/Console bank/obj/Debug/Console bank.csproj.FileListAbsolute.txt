@@ -1,0 +1,3 @@
+C:\Users\EDGE\source\repos\Console bank\Console bank\obj\Debug\Console bank.csproj.AssemblyReference.cache
+C:\Users\EDGE\source\repos\Console bank\Console bank\obj\Debug\Console bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\EDGE\source\repos\Console bank\Console bank\obj\Debug\Console bank.csproj.CoreCompileInputs.cache
